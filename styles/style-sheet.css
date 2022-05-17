@@ -12,6 +12,7 @@ body {
 .global-container {
     height: 100%;
     width: 100%;
+    background-color: #f0f2f5;
 
 }
 
@@ -138,7 +139,10 @@ body {
     width: 25%;
     display: inline-block;
 }
+.footer-part{
 
+    background-color: white;
+}
 .footer-container {
     display: inline-block;
     text-align: start;
